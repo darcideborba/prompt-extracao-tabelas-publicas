@@ -1,0 +1,22 @@
+{
+  "title": "Prompt: Extração de Tabelas Públicas de Pesquisas",
+  "description": "Prompt operacional para extrair e harmonizar tabelas públicas agregadas de pesquisas do Cetic.br (TIC Saúde, TIC Governo Eletrônico, TIC Domicílios, TIC Educação e formatos análogos) em painel longo por indicador, estrato e onda. Integra a coleção de prompts de pesquisa acadêmica assistida por IA de Darci de Borba (Ipea).",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "language": "por",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Santos Júnior, Darci de Borba",
+      "affiliation": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+      "orcid": "0000-0001-9851-5034"
+    }
+  ],
+  "keywords": [
+    "Cetic.br",
+    "pesquisa acadêmica",
+    "dados abertos",
+    "inteligência artificial"
+  ],
+  "license": "mit"
+}
